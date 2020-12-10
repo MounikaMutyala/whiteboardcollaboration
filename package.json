@@ -1,0 +1,27 @@
+{
+  "name": "whiteboardcollaboration",
+  "version": "1.0.0",
+  "description": "cloud based collaborative whiteboard system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MounikaMutyala/whiteboardcollaboration.git"
+  },
+  "keywords": [
+    "whiteboard"
+  ],
+  "author": "Mounika Mutyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MounikaMutyala/whiteboardcollaboration/issues"
+  },
+  "homepage": "https://github.com/MounikaMutyala/whiteboardcollaboration#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}
